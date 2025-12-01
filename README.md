@@ -86,7 +86,7 @@ Backend → Render Web Service
 
 ## Screenshots
 
-### Lobby
+### Landing Page
 ![Lobby](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115624.png?raw=true)
 
 ### Meeting Interface
