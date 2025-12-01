@@ -87,7 +87,10 @@ Backend → Render Web Service
 ## Screenshots
 
 ### Landing Page
-![Lobby](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115624.png?raw=true)
+![Landing Page](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115624.png?raw=true)
+
+### SignUp & SignIn Page
+![SignUp & SignIn Page](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115646.png?raw=true)
 
 ### Meeting Interface
 ![Meeting UI](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115713.png?raw=true)
