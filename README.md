@@ -83,3 +83,26 @@ Backend → Render Web Service
 Frontend → Render Static Site
 
 Backend → Render Web Service
+
+## Screenshots
+
+### Lobby
+![Lobby](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115624.png?raw=true)
+
+### Meeting Interface
+![Meeting UI](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115713.png?raw=true)
+
+### Screen Sharing
+![Screen Share](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115824.png?raw=true)
+
+### Chat Panel
+![Chat Panel](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115852.png?raw=true)
+
+### Multi-Peer Grid
+![Multi Peer Grid](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115916.png?raw=true)
+
+### Controls (Mic/Camera/Screen)
+![Controls](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115950.png?raw=true)
+
+### Meeting History
+![Meeting History](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20120017.png?raw=true)
