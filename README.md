@@ -89,7 +89,7 @@ Backend → Render Web Service
 ### Landing Page
 ![Landing Page](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115624.png?raw=true)
 
-### SignUp & SignIn Page
+### Sign Up & Sign In Page
 ![SignUp & SignIn Page](https://github.com/AdarshVerma1968/FamCam/blob/main/Screenshot%202025-12-01%20115646.png?raw=true)
 
 ### Meeting Code Interface
